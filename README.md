@@ -3,7 +3,7 @@
 
 Considero que montar un repositorio sobre Ingeniería de Datos de Cero a Experto es una excelente iniciativa. por eso les comparto la propuesta teórica de temas diarios para cubrir durante este interesante camino, comenzando desde lo más básico hasta niveles más avanzados. Porque no todo pueden ser ejercicios, prácticas y/o talleres; la teoría es necesaria para comprender a profundidad y cumplir nuestra meta propuesta.
 
-# Lección 1-5: Introducción a la Ingeniería de Datos y Conceptos Básicos
+## Lección 1-5: Introducción a la Ingeniería de Datos y Conceptos Básicos
 Lección 1: ¿Qué es la Ingeniería de Datos?<br>
 Lección 2: Rol y responsabilidades del Ingeniero de Datos.<br>
 Lección 3: Diferencia entre Datos, Información y Conocimiento.<br>
