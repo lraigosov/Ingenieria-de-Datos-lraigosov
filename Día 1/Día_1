@@ -19,4 +19,4 @@ def procesar_datos(archivo_csv):
     print(datos.describe())
 
 # Llamamos a la función principal y proporcionamos el nombre del archivo CSV
-procesar_datos("F:\GitHub\Ingenieria-de-Datos-100-dias-con-Python\Libro_Analisis.csv")
+procesar_datos("Día 1\Libro_Analisis.csv")

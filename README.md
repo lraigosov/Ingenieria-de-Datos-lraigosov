@@ -1,2 +1,2 @@
-# Ingenieria de Datos
- Propuesta para convertirse en Ingenierio de Datos desde cero
+# Ingeniería de Datos
+ Propuesta para convertirse en Ingeniero de Datos desde cero
